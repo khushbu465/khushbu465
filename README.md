@@ -1,6 +1,6 @@
 ![ logo ](https://github.com/khushbu465/khushbu465/blob/main/git.jpg)
 <h1 align="center">Hi 👋, I'm khushbu</h1>
-<h3 align="center">I am web developer from Lucknow,India.</h3>
+<h3 align="center">I am web developer from Lucknow, India.</h3>
 <img align="right" alt="coding" width="350px" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu465&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu465" /> </p>
